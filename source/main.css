@@ -1,0 +1,188 @@
+#loginform h2 {
+	font-size: 22px;
+	font-weight: 100;
+}
+.my a {
+	color: #FFFFDF;
+}
+body {
+	background: rgb(53,106,160); /* Old browsers */
+	background: -moz-linear-gradient(45deg, rgb(53,106,160) 0%, rgb(53,106,160) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgb(53,106,160)), color-stop(100%, rgb(53,106,160))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(45deg, rgb(53,106,160) 0%, rgb(53,106,160) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(45deg, rgb(53,106,160) 0%, rgb(53,106,160) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(45deg, rgb(53,106,160) 0%, rgb(53,106,160) 100%); /* IE10+ */
+	background: linear-gradient(45deg, rgb(53,106,160) 0%, rgb(53,106,160) 100%); /* W3C */
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#356aa0', endColorstr='#356aa0', GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+.my {
+	font-size: 18px;
+	color: #FFFFDF
+}
+.my2 {
+	font-size: 22px;
+font-family: Georgia, "Times New Roman", Times, serif color:#FFFFDF
+}
+.my label {
+	font-size: 18px;
+	color: black
+}
+#apDiv3 {
+	position: absolute;
+	left: 10px;
+	top: 159px;
+	width: 1322px;
+	height: 88px;
+	z-index: 3;
+	background-repeat: no-repeat;
+}
+
+#apDiv1 {
+	position: absolute;
+	left: 10px;
+	top: 25px;
+	width: 1323px;
+	height: 150px;
+	z-index: 1;
+	background-repeat: no-repeat;
+	text-align: right;
+	list-style-type: none;
+	background-image: url(Untitled5.png);
+	display: block;
+	visibility: visible;
+	font-size: 36px;
+	text-transform: capitalize;
+	color: #ffefc6;
+	right: 10px;
+	background-position: center center;
+}
+#apDiv5 {
+	position: absolute;
+	left: 470px;
+	top: 261px;
+	width: 400px;
+	height: 339px;
+	z-index: 2;
+	font-size: 20px;
+	color: #FFFFDF;
+	line-height: 24px;
+	background-position: center center;
+	display: inline-block;
+}
+#apDiv2 {
+	position: absolute;
+	left: 75px;
+	top: 288px;
+	width: 1200px;
+	height: 1722px;
+	z-index: 2;
+	font-size: 20px;
+	color: #FFFFDF;
+	line-height: 24px;
+	background-position: center center;
+	display: inline-block;
+	right: 75px
+}
+.h_menu {
+	margin-top: 200px;
+	text-align: center;font-size: 50px; color:seashell;
+}
+.h_menu a{
+	margin-top: 200px;
+	text-align: center;font-size: 30px; color: #0FF
+}
+.h_menu a:hover{
+	margin-top: 200px;
+	text-align: center;
+	font-size: 30px;
+	color: #FFFFAE;
+}
+.h_menu ul li {
+	display: inline-block;
+	margin-right: 20px;
+}
+.h_menu ul li a {
+	display: block;
+	text-transform: uppercase;
+	color: #FFFFDF;
+	padding: 4px 6px;
+	font-size: 20px;
+}
+.formfield {
+	font-size: 16px;
+	padding: 5px;
+	border: 1px solid #aaa;
+	border-radius: 4px;
+	font-family: Georgia, "Times New Roman", Times, serif
+}
+.formfieldop {
+	font-size: 16px;
+	padding: 5px;
+	border: 1px solid #096;
+	border-radius: 4px;
+	font-family: Georgia, "Times New Roman", Times, serif
+}
+.formfield2 {
+	font-size: 14px;
+	padding: 3px;
+	border: 1px solid #aaa;
+	border-radius: 4px;
+	font-family: Georgia, "Times New Roman", Times, serif
+}
+.formfield3 {
+	font-size: 14px;
+	padding: 4px;
+	border: 1px solid #aaa;
+	border-radius: 4px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+.h_menu ul li a:hover {
+	color: #FFFFAE
+}
+.loginlabel {
+	padding-left: 20px;
+	font-size: 16px;
+	font-family: "Comic Sans MS", cursive;
+}
+#login fieldset .loginlabel p label {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+#apDiv7 #registerform2 fieldset h2 {
+	font-size: 20px;
+	font-weight: 100;
+	text-transform: capitalize;
+}
+#apDiv7 #registerform2 table tr td {
+	text-transform: none;
+}
+#apDiv7 #registerform3 fieldset h2 {
+	font-weight: 100;
+	font-size: 20px;
+	text-transform: capitalize;
+}
+#apDiv10 a {
+	font-family: Georgia, "Times New Roman", sans-serif;
+	font-size: 24px;
+	font-weight: 100;
+	text-transform: capitalize;
+	color: seashell;
+	text-decoration: none;
+}
+#apDiv12 a {
+	font-family: Georgia, "Times New Roman", sans-serif;
+	font-size: 24px;
+	font-weight: 100;
+	text-transform: capitalize;
+	color: seashell;
+	text-decoration: none;
+}
+#apDiv2 table tr th {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 20px;
+	font-weight: 100;
+	color: seashell;
+}
+#apDiv2 table tr td {
+	text-transform: none;
+}
