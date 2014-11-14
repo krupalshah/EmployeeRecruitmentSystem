@@ -10,7 +10,7 @@ You can use combined software packages like <a href="https://www.apachefriends.o
 - Start APACHE and MySQL servers from XAMPP/WAMP control panel.
 - Go to phpmyadmin from XAMPP/WAMP control panel and create a blank database named 'recruitment'.
 - Import `recruitment.sql` to this database.
-- Change the host, user, password in connect.php</a> according to your phpmyadmin credentials.
+- Change the host, user, password in connect.php according to your phpmyadmin credentials.
 - Finally, access the project files throgh url `localhost/<local_dirctory_path>` in your browser.
 
 
