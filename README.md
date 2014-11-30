@@ -14,5 +14,5 @@ You can use combined software packages like <a href="https://www.apachefriends.o
 - Finally, access the project files throgh url `localhost/<local_dirctory_path>` in your browser.
 
 #Screenshots
-<a href="https://www.dropbox.com/sh/hx10b33647ma4fj/AABwJfatHphvZ9dz52UVFFmna?dl=0">screenshots are here</a>
+<a href="https://www.dropbox.com/sh/t2xojwi8sofpssy/AADUQwXai3DUuExJcyo_A7W_a?dl=0">screenshots are here</a>
 
