@@ -13,6 +13,6 @@ You can use combined software packages like <a href="https://www.apachefriends.o
 - Change the host, user, password in `connect.php` according to your phpmyadmin credentials.
 - Finally, access the project files throgh url `localhost/<local_dirctory_path>` in your browser.
 
-#Screenshots
+**Screenshots**
 <a href="https://www.dropbox.com/sh/t2xojwi8sofpssy/AADUQwXai3DUuExJcyo_A7W_a?dl=0">screenshots are here</a>
 
