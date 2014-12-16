@@ -20,17 +20,17 @@ Using XAMPP or WAMP :
 ![Screenshot](/../master/others/screenshots/1.png?raw=true "User Login")<br/>
 
 ![Screenshot](/../master/others/screenshots/4.png?raw=true "Register")
-![Screenshot](/../master/others/screenshots/5.png?raw=true "Register")
+
 
 ![Screenshot](/../master/others/screenshots/7.png?raw=true "Register")
 
 ![Screenshot](/../master/others/screenshots/10.png?raw=true "Register")
-![Screenshot](/../master/others/screenshots/11.png?raw=true "Register")
+
 ![Screenshot](/../master/others/screenshots/12.png?raw=true "Register")
 ![Screenshot](/../master/others/screenshots/13.png?raw=true "Register")
 ![Screenshot](/../master/others/screenshots/14.png?raw=true "Register")
-![Screenshot](/../master/others/screenshots/15.png?raw=true "Register")
-![Screenshot](/../master/others/screenshots/19.png?raw=true "Register")
+
+
 
 
  
