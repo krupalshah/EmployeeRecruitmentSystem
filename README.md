@@ -16,7 +16,7 @@ Using XAMPP or WAMP :
 - Change the host, user, password in `connect.php` according to your phpmyadmin credentials.
 - Finally, access the project files throgh url `localhost/<local_dirctory_path>` in your browser.
 
-**Screenshots**<br/><br/>Here are some screenshots of the system: (<a href = "/../master/others/screenshots/">All screenshots are here</a>)<br/>
+**Screenshots**<br/>Here are some screenshots of the system: (<a href = "/../master/others/screenshots/">All screenshots are here</a>)<br/><br/>
 ![Screenshot](/../master/others/screenshots/1.png?raw=true "User Login")<br/>
 ![Screenshot](/../master/others/screenshots/4.png?raw=true "Register")<br/>
 ![Screenshot](/../master/others/screenshots/7.png?raw=true "User Account")<br/>
