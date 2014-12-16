@@ -6,8 +6,7 @@ This repository consists of a simple recruitment system developed using PHP and 
 
 
 **Usage**<br/>
-<a href="http://php.net/downloads.php">PHP</a>, <a href="http://dev.mysql.com/downloads/mysql/">MySQL</a> and <a href="http://httpd.apache.org/download.cgi">Apache HTTP server</a> are required to be installed prior to use.
-You can use combined software packages like <a href="https://www.apachefriends.org/index.html">XAMPP</a> or <a href="http://www.wampserver.com/en/">WMPP</a>.<br/>
+<a href="http://php.net/downloads.php">PHP</a>, <a href="http://dev.mysql.com/downloads/mysql/">MySQL</a> and <a href="http://httpd.apache.org/download.cgi">Apache HTTP server</a> are required to be installed prior to use. You can use combined software packages like <a href="https://www.apachefriends.org/index.html">XAMPP</a> or <a href="http://www.wampserver.com/en/">WMPP</a>.<br/>
 Using XAMPP or WAMP :
 - Copy extracted files to the web server's root directory [most probably, `C:\xampp\htdocs` in XAMPP or `C:\wamp\www` in WAMP].
 - Start APACHE and MySQL servers from XAMPP/WAMP control panel.
