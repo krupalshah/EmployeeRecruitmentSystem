@@ -22,7 +22,7 @@ Using XAMPP or WAMP :
 ![Screenshot](/../master/others/screenshots/7.png?raw=true "User Account")<br/>
 ![Screenshot](/../master/others/screenshots/10.png?raw=true "User Account")<br/>
 ![Screenshot](/../master/others/screenshots/12.png?raw=true "Admin Account")<br/>
-![Screenshot](/../master/others/screenshots/13.png?raw=true "Admin Account")<br/><br/>
+![Screenshot](/../master/others/screenshots/13.png?raw=true "Admin Account")<br/>
 <a href = "/../master/others/screenshots/">All screenshots are here</a>
 
 
