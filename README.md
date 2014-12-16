@@ -23,8 +23,7 @@ Using XAMPP or WAMP :
 ![Screenshot](/../master/others/screenshots/5.png?raw=true "Register")
 
 ![Screenshot](/../master/others/screenshots/7.png?raw=true "Register")
-![Screenshot](/../master/others/screenshots/8.png?raw=true "Register")
-![Screenshot](/../master/others/screenshots/9.png?raw=true "Register")
+
 ![Screenshot](/../master/others/screenshots/10.png?raw=true "Register")
 ![Screenshot](/../master/others/screenshots/11.png?raw=true "Register")
 ![Screenshot](/../master/others/screenshots/12.png?raw=true "Register")
