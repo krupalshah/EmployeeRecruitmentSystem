@@ -18,17 +18,12 @@ Using XAMPP or WAMP :
 
 **Screenshots**<br/>Here are some screenshots of the system:<br/><br/>
 ![Screenshot](/../master/others/screenshots/1.png?raw=true "User Login")<br/>
-
-![Screenshot](/../master/others/screenshots/4.png?raw=true "Register")
-
-
-![Screenshot](/../master/others/screenshots/7.png?raw=true "Register")
-
-![Screenshot](/../master/others/screenshots/10.png?raw=true "Register")
-
-![Screenshot](/../master/others/screenshots/12.png?raw=true "Register")
-![Screenshot](/../master/others/screenshots/13.png?raw=true "Register")
-![Screenshot](/../master/others/screenshots/14.png?raw=true "Register")
+![Screenshot](/../master/others/screenshots/4.png?raw=true "Register")<br/>
+![Screenshot](/../master/others/screenshots/7.png?raw=true "User Account")<br/>
+![Screenshot](/../master/others/screenshots/10.png?raw=true "User Account")<br/>
+![Screenshot](/../master/others/screenshots/12.png?raw=true "Admin Account")<br/>
+![Screenshot](/../master/others/screenshots/13.png?raw=true "Admin Account")<br/><br/>
+<a href = "/../master/others/screenshots/">All screenshots are here</a>
 
 
 
