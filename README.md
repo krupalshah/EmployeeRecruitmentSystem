@@ -2,7 +2,7 @@ Employee Recruitment System
 ===========================
 
 **Introduction**<br/>
-This repository consists of a simple recruitment system which facilites oraganization to post their staffing requirements and view profiles of interested candidates. Also, organization can sort interested candidates and schedule their exams and interviews. It can be also helpful for candidates to find suitable job in the company and to apply for appropriate job. The primary purpose to develop this system is to optimize the recruitment process for an organization.
+This repository consists of a simple recruitment system developed using PHP and MySQL which facilites oraganization to post their staffing requirements and view profiles of interested candidates. Also, organization can sort interested candidates and schedule their exams and interviews. It can be also helpful for candidates to find suitable job in the company and to apply for appropriate job. The primary purpose to develop this system is to optimize the recruitment process for an organization.
 
 
 **Usage**<br/>
@@ -16,6 +16,23 @@ Using XAMPP or WAMP :
 - Change the host, user, password in `connect.php` according to your phpmyadmin credentials.
 - Finally, access the project files throgh url `localhost/<local_dirctory_path>` in your browser.
 
-**Screenshots**<br/>
+**Screenshots**<br/>Here are some screenshots of the system:<br/><br/>
+![Screenshot](/../master/others/screenshots/1.png?raw=true "User Login")<br/>
+![Screenshot](/../master/others/screenshots/2.png?raw=true "Register")<br/>
+![Screenshot](/../master/others/screenshots/3.png?raw=true "Register")
+![Screenshot](/../master/others/screenshots/4.png?raw=true "Register")
+![Screenshot](/../master/others/screenshots/5.png?raw=true "Register")
+![Screenshot](/../master/others/screenshots/6.png?raw=true "Register")
+![Screenshot](/../master/others/screenshots/7.png?raw=true "Register")
+![Screenshot](/../master/others/screenshots/8.png?raw=true "Register")
+![Screenshot](/../master/others/screenshots/9.png?raw=true "Register")
+![Screenshot](/../master/others/screenshots/10.png?raw=true "Register")
+![Screenshot](/../master/others/screenshots/11.png?raw=true "Register")
+![Screenshot](/../master/others/screenshots/12.png?raw=true "Register")
+![Screenshot](/../master/others/screenshots/13.png?raw=true "Register")
+![Screenshot](/../master/others/screenshots/14.png?raw=true "Register")
+![Screenshot](/../master/others/screenshots/15.png?raw=true "Register")
+![Screenshot](/../master/others/screenshots/19.png?raw=true "Register")
 
 
+ 
