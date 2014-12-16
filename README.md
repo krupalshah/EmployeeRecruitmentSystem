@@ -18,11 +18,10 @@ Using XAMPP or WAMP :
 
 **Screenshots**<br/>Here are some screenshots of the system:<br/><br/>
 ![Screenshot](/../master/others/screenshots/1.png?raw=true "User Login")<br/>
-![Screenshot](/../master/others/screenshots/2.png?raw=true "Register")<br/>
-![Screenshot](/../master/others/screenshots/3.png?raw=true "Register")
+
 ![Screenshot](/../master/others/screenshots/4.png?raw=true "Register")
 ![Screenshot](/../master/others/screenshots/5.png?raw=true "Register")
-![Screenshot](/../master/others/screenshots/6.png?raw=true "Register")
+
 ![Screenshot](/../master/others/screenshots/7.png?raw=true "Register")
 ![Screenshot](/../master/others/screenshots/8.png?raw=true "Register")
 ![Screenshot](/../master/others/screenshots/9.png?raw=true "Register")
