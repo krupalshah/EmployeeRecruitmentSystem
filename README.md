@@ -21,10 +21,10 @@ Using <a href="https://www.apachefriends.org/index.html">XAMPP</a> or <a href="h
 ![Screenshot](/../master/others/screenshots/10.png?raw=true "User Account")<br/>
 ![Screenshot](/../master/others/screenshots/12.png?raw=true "Admin Account")<br/>
 ![Screenshot](/../master/others/screenshots/13.png?raw=true "Admin Account")<br/>
-<a href = "/../master/others/screenshots/">All screenshots are here</a><br/>
-**Licence**
-   Remember This Place
-    Copyright (C) 2014  KRUPAL SHAH
+<a href = "/../master/others/screenshots/">All screenshots are here</a><br/><br/>
+**Licence**<br/>
+   Remember This Place<br/>
+    Copyright (C) 2014  KRUPAL SHAH<br/>
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
