@@ -22,7 +22,7 @@ Using <a href="https://www.apachefriends.org/index.html">XAMPP</a> or <a href="h
 ![Screenshot](/../master/others/screenshots/12.png?raw=true "Admin Account")<br/>
 ![Screenshot](/../master/others/screenshots/13.png?raw=true "Admin Account")<br/>
 <a href = "/../master/others/screenshots/">All screenshots are here</a><br/><br/>
-**LICENSE**<br/>
+**License**<br/>
       Employee Recruitment System<br/>
     Copyright (C) 2014  KRUPAL SHAH<br/>
 
