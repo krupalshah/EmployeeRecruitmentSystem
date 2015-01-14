@@ -24,8 +24,7 @@ Using <a href="https://www.apachefriends.org/index.html">XAMPP</a> or <a href="h
 <a href = "/../master/others/screenshots/">All screenshots are here</a><br/><br/>
 **License**
 ```
-      Employee Recruitment System<br/>
-    Copyright (C) 2014  Krupal Shah<br/>
+    Copyright (C) 2014  Krupal Shah
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
